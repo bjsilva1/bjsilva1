@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm a 1st year Computer Science Major at UCI.  
-I love collaborating with people on large scale projects including game, web, and software development.
+I love collaborating with people on large scale projects including game and web development.
 
 <!--
 **bjsilva1/bjsilva1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

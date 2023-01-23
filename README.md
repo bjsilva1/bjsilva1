@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a 1st year Computer Science Major at UCI.  
+I'm a 1st year Computer Science and Engineering Major at UCI.  
 I love collaborating with people on large scale projects including game and web development.
 
 <!--

@@ -3,7 +3,7 @@
 I'm a 2nd year Computer Science and Engineering/MathematicMajor at UCI.  
 I love collaborating with people on large scale projects including game and web development.
 
-I'm currently the project lead on ICSSC ZotMeal.
+I'm currently a project lead on ICSSC ZotMeal.
 
 <!--
 **bjsilva1/bjsilva1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

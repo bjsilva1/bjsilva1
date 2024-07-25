@@ -43,6 +43,22 @@ I'm currently a project lead on ICSSC ZotMeal.
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+## 💾 Projects
+
+Web Dev 📶
+- [ZotMeal](https://github.com/icssc/ZotMeal)
+- [Study Zot](https://github.com/bjsilva1/StudyZot)
+- [Property Guessr](https://github.com/EightBitByte/property-guessr)
+
+Game Dev 🎲
+- [Babel: Prison of the Gods](https://github.com/EightBitByte/project-babel)
+- [Seafarer](https://github.com/ailurada/project-seafarer)
+- [Dogwalker](https://ohitscookie.itch.io/dogwalker)
+- [Genodice](https://ohitscookie.itch.io/genodice)
+- [Time for Slime](https://github.com/VianniR/TimeForSlime/)
+- [Spell of the Lost](https://sites.google.com/view/spellsofthelost)
+
+
 <!--
 **bjsilva1/bjsilva1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

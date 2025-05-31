@@ -56,7 +56,7 @@ Game Dev 🎲
 - [Dogwalker](https://ohitscookie.itch.io/dogwalker)
 - [Genodice](https://ohitscookie.itch.io/genodice)
 - [Time for Slime](https://github.com/VianniR/TimeForSlime/)
-- [Spell of the Lost](https://sites.google.com/view/spellsofthelost)
+- [Spells of the Lost](https://sites.google.com/view/spellsofthelost)
 
 
 <!--

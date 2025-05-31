@@ -2,10 +2,10 @@
 
 ## 📝 About Me
 
-I'm a 3rd year Computer Science/Mathematic Major at UCI.  
-I love collaborating with people on large scale projects including game and web development.
+I'm a 3rd year Mathematic Major at UCI.  
+I love collaborating with people on projects including game and web development.
 
-I'm currently a project lead on ICSSC ZotMeal.
+I was previously a project lead on ICSSC ZotMeal.
 
 ## 💻 Languages
 
